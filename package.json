@@ -1,0 +1,11 @@
+{
+  "name": "game-bot",
+  "version": "0.0.0",
+  "dependencies": {
+    "botkit-storage-redis": "^1.1.0",
+    "config": "^1.24.0",
+    "lodash": "^4.17.4",
+    "require-all": "^2.1.0",
+    "skellington": "^1.1.0"
+  }
+}
